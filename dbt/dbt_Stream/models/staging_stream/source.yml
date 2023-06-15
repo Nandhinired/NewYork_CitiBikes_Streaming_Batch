@@ -1,0 +1,12 @@
+version: 2 
+sources:
+  - name: citi_bikes_stream
+    schema: citibikes_stream_ds
+    tables: 
+      - name: stationInfo_external_table
+      - name: stationStatus_external_table
+      - name: systemInfo_external_table
+   
+
+   
+      

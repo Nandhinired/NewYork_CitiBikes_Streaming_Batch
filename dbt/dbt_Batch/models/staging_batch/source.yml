@@ -1,0 +1,9 @@
+version: 2 
+sources:
+  - name: citi_bikes_batch
+    schema: citibikes_batch_ds
+    tables: 
+      - name: citibikes_trips_external_table
+      - name: climate_external_table
+   
+      

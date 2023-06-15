@@ -1,0 +1,13 @@
+bq_dbt:
+  outputs:
+    dev:
+      type: bigquery
+      method: service-account
+      keyfile: /home/airflow/gcs/data/profiles/dbt-bigquery.json 
+      project: project-gcp-388913
+      dataset: citibikes
+      threads: 1
+      job_execution_timeout_seconds: 300
+      location: europe-central2     
+      priority: interactive  
+  target: dev
