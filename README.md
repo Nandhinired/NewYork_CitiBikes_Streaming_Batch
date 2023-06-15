@@ -29,11 +29,13 @@ Looker Studio is used to create reports and visualizations based on the data in 
 
 
 ## Pipeline
-![Pipeline](https://github.com/Nandhinired/NewYork_CitiBikes_Batch_Streaming/assets/69593809/f6628a07-3037-4e4b-92a0-605df370ddcc)
+![image](https://github.com/Nandhinired/NewYork_CitiBikes_Streaming_Batch/assets/69593809/b63d8931-968d-4c8c-9180-a621bdfbf1de)
+
 
 
 ### Stream Data Flow
-![image](https://github.com/Nandhinired/NewYork_CitiBikes_Batch_Streaming/assets/69593809/06405140-6fdd-4c0e-8ead-97705ad13398)
+![image](https://github.com/Nandhinired/NewYork_CitiBikes_Streaming_Batch/assets/69593809/2e1f8149-5fad-4829-831c-8fac8f55f79d)
+
 
 
 
@@ -42,33 +44,40 @@ Looker Studio is used to create reports and visualizations based on the data in 
 
  Batch Report : https://lookerstudio.google.com/reporting/c78e0fb5-197a-4e93-bf68-294a835cc75b
  
- ![image](https://github.com/Nandhinired/NewYork_CitiBikes_Batch_Streaming/assets/69593809/387d3b04-a14d-46e3-a134-cbdc144c4e66)
+![image](https://github.com/Nandhinired/NewYork_CitiBikes_Streaming_Batch/assets/69593809/751b7e6a-a455-46b1-9205-fb5ca558ba82)
+
  
  Stream Report: https://lookerstudio.google.com/s/gCTWIyrIxAo
  
- ![image](https://github.com/Nandhinired/NewYork_CitiBikes_Batch_Streaming/assets/69593809/0a87e15c-d8a0-481c-bf44-c83aff3aef20)
+![image](https://github.com/Nandhinired/NewYork_CitiBikes_Streaming_Batch/assets/69593809/478d80fa-012b-466c-a10d-bf3a66960c30)
+
 
 
 
  ## DBT Modelling Used 
  
   Mapping of Temporary external tables
- ![external_table_dbt_model](https://github.com/Nandhinired/NewYork_CitiBikes_Batch_Streaming/assets/69593809/d638bada-7276-438f-8d0d-c2a74fdf06f0)
+![image](https://github.com/Nandhinired/NewYork_CitiBikes_Streaming_Batch/assets/69593809/f41c3e38-5bce-460f-8cfb-8748752ee986)
 
- Batch Model 
- ![image](https://github.com/Nandhinired/NewYork_CitiBikes_Batch_Streaming/assets/69593809/72b04d07-91a0-42e4-a957-6a4101ec6eb5)
- Stream Model
- ![Stream_dbt_model](https://github.com/Nandhinired/NewYork_CitiBikes_Batch_Streaming/assets/69593809/7e4f93ed-7d53-4a2e-9d52-248c108e413a)
+
+ ### Batch Model 
+![image](https://github.com/Nandhinired/NewYork_CitiBikes_Streaming_Batch/assets/69593809/2ed78289-b05e-4290-9f3d-cbc61a229e26)
+
+ ### Stream Model
+![image](https://github.com/Nandhinired/NewYork_CitiBikes_Streaming_Batch/assets/69593809/e9117030-8cc5-402e-8e49-24e53dbae581)
+
 
 
  ## Airflow Orchestration
 
  ### Stream Pipeline
- ![image](https://github.com/Nandhinired/NewYork_CitiBikes_Batch_Streaming/assets/69593809/18a03386-d377-499c-8a1c-997731b3248e)
+![image](https://github.com/Nandhinired/NewYork_CitiBikes_Streaming_Batch/assets/69593809/619e3f21-af3e-4a22-ab25-6862d2740e5f)
+
 
 
  ### Batch Pipeline
- ![image](https://github.com/Nandhinired/NewYork_CitiBikes_Batch_Streaming/assets/69593809/2fba67f2-fd01-4b6f-83c0-cac6fc2a7e69)
+ ![image](https://github.com/Nandhinired/NewYork_CitiBikes_Streaming_Batch/assets/69593809/a04a3d9b-c8c8-41e3-910a-3f8f29267f4c)
+
 
 
  
