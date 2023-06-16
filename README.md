@@ -37,6 +37,9 @@ Looker Studio is used to create reports and visualizations based on the data in 
 ![image](https://github.com/Nandhinired/NewYork_CitiBikes_Streaming_Batch/assets/69593809/2e1f8149-5fad-4829-831c-8fac8f55f79d)
 
 
+### Batch Data Flow
+![image](https://github.com/Nandhinired/NewYork_CitiBikes_Streaming_Batch/assets/69593809/a46f268d-b737-4760-a55b-2cd85a8e622a)
+
 
 
 
